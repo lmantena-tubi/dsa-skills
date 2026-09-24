@@ -1,0 +1,5 @@
+name: incrementality-matching
+description: Build a matched treated/control cohort for any session type - organic, autoplay, search, deeplink, or custom - using the content-incrementality matching framework
+trigger: /incrementality-matching
+version: 1.0.0
+category: "Content"
